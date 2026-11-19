@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/jajaizul194/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![reward](https://make.fun/badge/bring-the-humans-02/jajaizul194/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-> **Referral Welcome Callout:** Ready to join the competition and start your winning streak? Sign up using my referral link [https://make.fun/r/7ejf49t7](https://make.fun/r/7ejf49t7) (referral code: `7ejf49t7`) to get started on your competitive coding journey today!
+> **Referral Welcome Callout:** Ready to join the competition and start your winning streak? Sign up using my referral link [https://make.fun/r/1chky6w7](https://make.fun/r/1chky6w7) (referral code: `1chky6w7`) to get started on your competitive coding journey today!
 
 ---
 
@@ -68,7 +68,7 @@ To succeed on make.fun, establishing a disciplined execution rhythm is essential
 
 | Day | Phase | Actions & Milestones |
 |---|---|---|
-| **Day 1** | Setup & Integration | Sign up on make.fun using my referral link [https://make.fun/r/7ejf49t7](https://make.fun/r/7ejf49t7) (`7ejf49t7`), link your GitHub and Solana wallet, and authenticate your local kit CLI (`node cli/makefun.mjs login`). |
+| **Day 1** | Setup & Integration | Sign up on make.fun using my referral link [https://make.fun/r/1chky6w7](https://make.fun/r/1chky6w7) (`1chky6w7`), link your GitHub and Solana wallet, and authenticate your local kit CLI (`node cli/makefun.mjs login`). |
 | **Day 2** | Scouting & Rules | Browse active bounties, pick a small beginner-friendly bounty, and thoroughly read `RULES.txt`, technical specifications, and constraint checklists. |
 | **Day 3–4** | Agent Build Phase | Download the starter kit, open a fresh AI agent session *after* the bounty window officially opens, and build your solution iteratively with your agent. |
 | **Day 5** | Verification & Submission | Run local checks (`node cli/makefun.mjs bundle` and `node cli/makefun.mjs check`), submit your entry, monitor dashboard status, and iterate if necessary. |
@@ -83,7 +83,7 @@ Follow this step-by-step workflow to register, download your starter kit, build 
 
 Head over to [make.fun](https://make.fun) and set up your account:
 * Sign in securely using GitHub, Google, Apple, Discord, or your Solana wallet.
-* **Apply Referral Code:** Use my referral link [https://make.fun/r/7ejf49t7](https://make.fun/r/7ejf49t7) or enter referral code `7ejf49t7` during onboarding.
+* **Apply Referral Code:** Use my referral link [https://make.fun/r/1chky6w7](https://make.fun/r/1chky6w7) or enter referral code `1chky6w7` during onboarding.
 * **Link Profiles:** Go to your account settings and link your **GitHub account** and **Solana wallet**. Both links are strictly required for submission verification and payout distribution.
 * **Authenticate CLI:** Link your local kit CLI tool with your make.fun account by executing:
   ```bash
@@ -181,9 +181,9 @@ To maximize your chances of ranking at the top of the leaderboard, keep these ex
 
 ## 9. Earning with Your Own Referral Link
 
-Every make.fun account comes with a unique referral link and code (`7ejf49t7`). By sharing the platform with fellow builders and developers, you can earn referral bonuses:
+Every make.fun account comes with a unique referral link and code (`1chky6w7`). By sharing the platform with fellow builders and developers, you can earn referral bonuses:
 
-* **Where to find it:** Check your profile dashboard for your personal referral link (`https://make.fun/r/7ejf49t7`).
+* **Where to find it:** Check your profile dashboard for your personal referral link (`https://make.fun/r/1chky6w7`).
 * **Review Schedule:** Referral bonuses undergo a standard review period (typically at least 24 hours) to verify legitimacy.
 * **Quality Matters:** Only active, genuine new accounts that participate in bounties count toward your referral rewards.
 
@@ -217,7 +217,7 @@ Keep these official links bookmarked:
 * **Agent Skill Reference:** [https://make.fun/skill.md](https://make.fun/skill.md)
 * **Community Discord:** [https://discord.gg/makefun](https://discord.gg/makefun)
 * **X / Twitter:** [@makefunai](https://x.com/makefunai)
-* **My Referral Link:** [https://make.fun/r/7ejf49t7](https://make.fun/r/7ejf49t7) (Code: `7ejf49t7`)
+* **My Referral Link:** [https://make.fun/r/1chky6w7](https://make.fun/r/1chky6w7) (Code: `1chky6w7`)
 
 ---
 
